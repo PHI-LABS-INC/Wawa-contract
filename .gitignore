@@ -1,0 +1,21 @@
+# directories
+cache
+node_modules
+out
+coverage
+cache_hardhat
+.yarn
+artifacts
+
+# files
+*.env
+*.log
+.DS_Store
+.pnp.*
+lcov.info
+yarn.lock
+
+# broadcasts
+!broadcast
+broadcast/*
+broadcast/*/31337/
