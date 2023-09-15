@@ -35,6 +35,10 @@ wallet, the number of transactions, the Phi Active Rank, and the highest gas pri
 
 - WawaNFT https://etherscan.io/address/0x2d9181b954736971bb74043d4782dfe93b55a9af
 
+## 🍀 Graph
+
+- WawaNFT https://thegraph.com/hosted-service/subgraph/moricho/wawanft
+
 ## 🎈 License
 
 This project is licensed under CC0.
