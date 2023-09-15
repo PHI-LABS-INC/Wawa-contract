@@ -37,7 +37,13 @@ wallet, the number of transactions, the Phi Active Rank, and the highest gas pri
 
 ## 🍀 Graph
 
+Hosted-service
+
 - WawaNFT https://thegraph.com/hosted-service/subgraph/moricho/wawanft
+
+Subgraph
+
+- https://thegraph.com/explorer/subgraphs/5E5xBP448w4EbowCj3mVjfhzjfKU3XRsihQuiPuX3FVJ?chain=mainnet&v=0
 
 ## 🎈 License
 
